@@ -1,0 +1,14 @@
+No se incluyen datos meteorológicos inventados.
+
+La aplicación descarga información REAL desde la API Open-Meteo al abrirse.
+Para obtener un respaldo local con registros verdaderos, en un equipo con Internet:
+
+1) pip install -r requirements.txt
+2) python descargar_respaldo.py
+3) Se creará data/respaldo_chile_2025.csv
+4) Este CSV se puede abrir con Excel y subir a la aplicación con su control de respaldo.
+
+También puedes usar la pestaña "Datos y Excel" del dashboard y pulsar "Descargar datos filtrados en CSV".
+
+Datos: https://open-meteo.com/en/docs/historical-weather-api
+No modificar cifras observadas ni afirmar que la simulación es una predicción de 2035.

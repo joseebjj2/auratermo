@@ -1,0 +1,11 @@
+ANTES DE ENTREGAR, ABRIR APP ONLINE CON DATOS REALES DEL AÑO 2025,
+CIUDADES SANTIAGO, TALCA Y CONCEPCIÓN, UMBRAL 30 °C, AUMENTO +1,5 °C.
+
+Resultados observados: [COPIAR DEL DASHBOARD]
+Ciudad con más días observados ≥30 °C: [CIUDAD y NÚMERO]
+Días hipotéticos adicionales en esa ciudad: [NÚMERO]
+Mayor máxima observada, según filtros: [NÚMERO °C]
+Fecha de consulta: [FECHA]
+
+Reemplazar los textos entre corchetes de la presentación y del informe,
+sin inventar datos, y dejar fuente, período y filtros usados.

@@ -1,0 +1,8 @@
+1. Rúbrica de la Tercera Solemne de Taller de Programación II, profesora Mónica Otero, 19-11-2026.
+2. Clase 14 de Taller de Programación II, Streamlit I, profesora Mónica Otero, 2026.
+3. Streamlit Preguntas Componentes, material de repaso proporcionado por la docente.
+4. Open-Meteo Historical Weather API: https://open-meteo.com/en/docs/historical-weather-api
+5. Streamlit Community Cloud: https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy
+6. Pandas read_csv: https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+
+La documentación de la profesora es la base de los requisitos académicos; el servicio meteorológico es una fuente externa pública.
